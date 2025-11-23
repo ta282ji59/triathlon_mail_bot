@@ -1,0 +1,20 @@
+# .gitignore
+
+# Dependencies
+/node_modules
+
+# Build artifacts
+/dist
+/lib
+*.js
+*.d.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

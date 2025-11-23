@@ -1,0 +1,6 @@
+mkdir triathlon_mail_bot
+cd triathlon_mail_bot
+npm init -y
+npm install -D typescript @types/node
+npx tsc --init
+mkdir src
