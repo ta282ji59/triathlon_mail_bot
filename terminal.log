@@ -1,8 +1,0 @@
-# npm関連
-npm init -y
-npm install -D typescript @types/node
-npx tsc --init
-npm install -D ts-node typescript
-
-# git関連
-git init
